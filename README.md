@@ -14,7 +14,6 @@ DriveSafe is a mobile application designed to detect driver drowsiness in real-t
 6. [API Reference](#api-reference)
 7. [UI Design](#ui-design)
 8. [Contributing](#contributing)
-9. [License](#license)
 
 ## Introduction
 
