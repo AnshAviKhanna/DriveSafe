@@ -130,13 +130,13 @@ DriveSafe aims to enhance road safety by alerting drivers when they show signs o
 ### Screen Design
 
 <div style="display: flex;">
-<img src="images/login.png" alt="Description" width="200"/>
-<img src="images/home.png" alt="Description" width="200"/>
+<img src="assets/login.png" alt="Description" width="200"/>
+<img src="assets/home.png" alt="Description" width="200"/>
 </div>
 
 ### Navigation Prototype
 
-![Navigation design](images/navigation.png)
+![Navigation design](assets/navigation.png)
 
 Check out the interactive [Figma prototype](https://www.figma.com/proto/tg1p7a5psmtDkrKeplm3Cp/SE-project?page-id=0%3A1&type=design&node-id=2-163&viewport=179%2C437%2C0.28&t=CKTVxOHP3cfDyHaF-1&scaling=scale-down&starting-point-node-id=2%3A163&mode=design).
 
